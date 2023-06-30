@@ -14,5 +14,4 @@ public class Main8 {
 		System.out.println("op1.isEmpty() : " + op1.isEmpty());
 		System.out.println("op2.isEmpty() : " + op2.isEmpty());
 	}
-
 }
